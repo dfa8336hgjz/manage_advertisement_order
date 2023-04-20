@@ -1,0 +1,3 @@
+- Main compiler: Visual Studio 2022
+- Used library: bits/stdc++.h (extract folder "bits" to the library container of your own compiler)
+- This program only works on Windows system

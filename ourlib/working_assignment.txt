@@ -1,0 +1,4 @@
+- Phùng Minh Chiến 20213565: ads.h + support_functions.h + list.h
+- Nguyễn Phúc Thành 20213587: report + advertisement.h + triangle_ads.h
+- Mai Thành Vinh 20213596: UML diagram + circle_ads.h + rhombus_ads.h
+- Nguyễn Đình Thuận : manage_menu.h + rectangle_ads.h
